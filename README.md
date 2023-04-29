@@ -1,18 +1,26 @@
-![toph](https://user-images.githubusercontent.com/128472454/226676984-b674e83c-037c-41d7-92d8-5e893ab0e1b7.jpg)
-<div Align="center"><h1> <a href="https://github.com/MD-MAFUJUL-HASAN/Toph.co">Toph.CO Problem Solution</a></h1></div>
+<div align="center">
+  
+  ### Toph.co
+</div>
 
-**These Contain Some Problem Solution of Toph.co Website that I have done while understanding Programming Concepts.**
-
-**The detailed Description of each program along with the meta projects listed in this repository can be found at github page :-**
-
-**_[https://github.com/MD-MAFUJUL-HASAN/Toph.co/](https://github.com/MD-MAFUJUL-HASAN/Toph.co)_ ⭐⭐⭐**
-
-### [List of Programs](https://github.com/MD-MAFUJUL-HASAN/Toph.co/) :-
-* [Add Them Up](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/Add%20Them%20Up.c)
-* [Is Palindrome](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/Is%20Palindrome.c)
-* [clock math](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/clock%20math.cpp)
-* [copycat](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/copycat.c)
-* [divisors](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/divisors.cpp)
-* [formatted number](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/formatted%20number.cpp)
-* [is prime](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/is%20prime.cpp)
-* [leap years](https://github.com/MD-MAFUJUL-HASAN/Toph.co/blob/main/leap%20years.cpp)
+<p align="center">
+&emsp;
+  <img src="https://img.shields.io/github/languages/code-size/MD-MAFUJUL-HASAN/Toph.co?style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/repo-size/MD-MAFUJUL-HASAN/Toph.co?color=purple&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/count/MD-MAFUJUL-HASAN/Toph.co?color=green&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/languages/top/MD-MAFUJUL-HASAN/Toph.co?color=orange&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/commit-activity/m/MD-MAFUJUL-HASAN/Toph.co?color=lime&style=for-the-badge">
+  &emsp;
+  <img src="https://img.shields.io/github/last-commit/MD-MAFUJUL-HASAN/Toph.co?color=darkgreen&style=for-the-badge">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Toph.co?category=code" width="200">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Toph.co?category=lines" width="175">
+  &emsp;
+  <img src="https://tokei.rs/b1/github/MD-MAFUJUL-HASAN/Toph.co?category=files" width="100">
+  &emsp;
+  </p>
